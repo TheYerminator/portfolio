@@ -1,10 +1,14 @@
-body{
-      background-image: ';
-      background-repeat: no-repeat;
-      background-size: cover;
-    }
-
-
-h1{
-      text-align: center;
+.content{
+      display: flex;
 }
+
+
+div.txt {
+  text-align: center;
+  padding-top: 20px;
+}
+
+body {
+  margin: 0;
+}
+
